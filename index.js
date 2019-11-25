@@ -12,7 +12,7 @@ return animal
 
 function add2(n) {
   const two = 2
-  return (n + two)
+  return parseInt(n + two)
 }
 
 var funkyFunction = function() {
