@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-yourAnimal = cat;
+var animal = cat;
   console.log(myAnimal)
 }
 
